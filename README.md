@@ -16,4 +16,11 @@ lives in uppercase "Barhood" directory
     * to install dependencies: "pip install -r requirements.txt"
     * helpful guide: http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
+### Frontend
+lives in uppercase "Public" directory
+* Node 4.2.6
+* dependencies in package.json file
+    * install running "npm install"
+    * run dev server with "npm start"
+    * currently frontend app is a boilerplate hello-world courtesy of create-react-app cli
 
