@@ -22,5 +22,5 @@ lives in uppercase "Public" directory
 * dependencies in package.json file
     * install running "npm install"
     * run dev server with "npm start"
-    * currently frontend app is a boilerplate hello-world courtesy of create-react-app cli
+    * currently frontend app is a boilerplate titled "barhood-front-end" courtesy of create-react-app cli
 
